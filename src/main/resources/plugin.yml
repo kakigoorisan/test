@@ -1,0 +1,10 @@
+name: kakigooritestpl
+version: ${project.version}
+main: test.test.test
+api-version: 1.12.2
+commands:
+  test:
+    description: testcommand
+    aliases: kakigoori
+    permission: default
+    usage: tekitou
